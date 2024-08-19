@@ -4,11 +4,9 @@
 #The front of the hoodie consist of Monet's sunrise. 
 
 #This is the front of the hoodie, trying to paint Monet's "Impression, Sunrise" :
-![image](https://github.com/user-attachments/assets/58bbedcf-b7c7-447f-8b14-8ad613d5f265)
+![IMG_7273 (1)](https://github.com/user-attachments/assets/db13f4ca-c88b-4ca4-922b-ee780284367c)
 
 
-#This is the first painting on the back of the hoodie, it's a painting from Claude Monet, "The Cliff, Étretat, Sunset":
-![image](https://github.com/user-attachments/assets/1be99da4-e921-4325-a855-0a921b680958)
+#This is the back of the hoodie, where it consist a series of paintings of sunsets from Monet: 
+![IMG_7274 (1)](https://github.com/user-attachments/assets/d3c52ed1-c90e-4bf8-b1bc-408dbba3f082)
 
-#This is the 2nd and 3rd painting on the back of the hoodie, also paintings from Monet: 
-![image (1)](https://github.com/user-attachments/assets/f4947ecf-e360-4bf2-923f-1513b3334d39)
